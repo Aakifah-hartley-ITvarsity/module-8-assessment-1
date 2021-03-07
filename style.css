@@ -1,0 +1,28 @@
+body{
+    background-image: url("images/background.jpg");
+    background-size: 100%;
+    font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+label{
+    border:solid 3px rgb(253, 8, 8);
+    padding: 1px;
+    margin: 3px;   
+}
+#labelwords{
+    color: rgb(236, 240, 232);
+}
+
+
+form a{
+    text-decoration: none;
+    color: rgb(220, 255, 222);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p{
+    color:chartreuse;
+    font-size: large;
+}
